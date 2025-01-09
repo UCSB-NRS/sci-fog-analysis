@@ -1,5 +1,8 @@
 # any archived item
 **/_archive
 
+# .DS_Store - Mac-specific hidden file used by Finder
+**/.DS_Store
+
 # geospatial data
 data/01_raw/geospatial 
