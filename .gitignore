@@ -9,3 +9,6 @@ data/01-raw/geospatial
 
 # Hide Chris Still's data until we get permission to host it 
 data/01-raw/met-station/still-lab
+
+# Hide communications associated with the project
+communications
