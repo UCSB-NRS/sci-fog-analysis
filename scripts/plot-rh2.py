@@ -1,8 +1,9 @@
 #=======================================================================
 #
 #  plot_wrf_rh2_sb.py
-#
 #  Plot 2-m relative humidity from WRF forecast (Santa Barbara domain).
+#
+#  Note: Script was received from Charles Jones and lightly modified. 
 #
 #=======================================================================
 
