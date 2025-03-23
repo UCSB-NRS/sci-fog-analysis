@@ -9,7 +9,7 @@ Explores weather station data across the transect provide by Chris Still, with a
 __[goes-fog-drip-comparisons](goes-fog-drip-comparisons.ipynb):__    
 Explores the relationship between fog drip measured by the weather stations and GOES coastal low clouds. 
 
-__[interence-fog-envelope](interence-fog-envelope.ipynb):__   
+__[inference-fog-envelope](inference-fog-envelope.ipynb):__   
 Creates an 'envelope' of conditions during which fog occurs, and assesses how often fog occurs during those conditions. The aim of this was to explore whether we can use standard weather station measurements to infer the presence of fog. 
 
 __[inference-ml-evaluation](inference-ml-evaluation.ipynb):__   

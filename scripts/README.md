@@ -1,5 +1,4 @@
 # Index
-----
 
 __CloudAlbedo_Ex_Read_Code.R:__    
 An example script provided by Rachel Clemesha for reading the low cloud albedo R data files.   
