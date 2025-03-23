@@ -1,9 +1,9 @@
 # Santa Cruz Island Fog Analysis
 
-This repository hosts analyses related to fog on Santa Cruz Island. An important but understudied component of the climate fog is critical to the survival of several island endemics, including Bishop Pine. As such, this body of work strives to understand fog dynamics at the island, including differences between microclimates, trends in fog and low clouds over time, and whether we can infer fog presence based only on standard weather station parameters. 
+This repository hosts analyses related to fog on Santa Cruz Island. An important but understudied component of the climate, fog is critical to the survival of several island endemics such Bishop Pine. As such, this body of work strives to understand fog dynamics at the island, including: differences between microclimates, trends in fog and low clouds over time, and whether we can infer fog presence based only on standard weather station parameters. 
 
-Santa Cruz Island Weather Station Locations
 ![Stations](./figures/sci-stations.png)
+__Figure 1:__ Santa Cruz Island Weather Station Locations. 
 
 # Highlighted Notebooks
 __[Santa Cruz Island Weather Data EDA](./notebooks/02-analyses/eda-sci-weather.ipynb)__   
