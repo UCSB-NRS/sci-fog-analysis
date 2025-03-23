@@ -1,6 +1,6 @@
 # sci-fog-analysis
 
-[Stations](./figures/sci-stations.png)
+![Stations](./figures/sci-stations.png)
 
 # Highlighted Notebooks
 [Santa Cruz Island Weather EDA](./notebooks/02-analyses/eda-sci-weather.ipynb). 
