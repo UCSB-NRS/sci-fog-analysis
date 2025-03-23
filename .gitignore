@@ -16,3 +16,7 @@ data/01-raw/met-station/still-lab
 
 # Hide communications associated with the project
 communications
+
+# Others
+.Rhistory
+~$compiled-fog-work.pptx
